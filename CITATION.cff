@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Two-phase GRASP for the Multi-Constraint Graph Partitioning problem
+message: >-
+  If you use either the software or the instances, please cite it as below.
+type: dataset
+authors:
+  - given-names: Alberto
+    family-names: Herrán
+    email: alberto.herran@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+    orcid: 'https://orcid.org/0000-0003-0348-0313'
+  - given-names: J. Manuel
+    family-names: Colmenar
+    email: josemanuel.colmenar@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+    orcid: 'https://orcid.org/0000-0001-7490-9450'
+  - given-names: Mauricio G.C.
+    family-names: Resende
+    email: mgcr@uw.edu
+    affiliation: University of Washington
+    orcid: 'https://orcid.org/0000-0001-7462-6207'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14509604
+    description: >-
+      This DOI represents all versions, and will always resolve to the latest one.
+repository-code: 'https://github.com/GRAFO-URJC/TPG4MCGP'
+abstract: >-
+  In this repository you will find the code and the instances used in the paper.
+keywords:
+  - Metaheuristics
+  - Greedy Randomized Adaptive Search
+  - Graph partitioning
+license: Apache-2.0
